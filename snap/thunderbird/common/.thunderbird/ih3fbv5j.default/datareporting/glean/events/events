@@ -1,2 +1,0 @@
-{"timestamp":8477165,"category":"mail","name":"ui_interaction","extra":{"id":"remoteContentOptionAllowForMsg","glean_timestamp":"1747595849971","source":"message-display"}}
-{"timestamp":8489010,"category":"mail","name":"ui_interaction","extra":{"id":"messenger-window-minimize-button","source":"toolbox","glean_timestamp":"1747595861816"}}
