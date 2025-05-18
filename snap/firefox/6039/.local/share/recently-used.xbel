@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/murphy/Downloads/Gittyup-1.4.0-x86_64.AppImage" added="2025-05-18T17:41:29.164378Z" modified="2025-05-18T17:41:29.164385Z" visited="2025-05-18T17:41:29.164379Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.appimage"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2025-05-18T17:41:29.164381Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/murphy/Downloads/Gittyup-win64-1.4.0.exe" added="2025-05-18T17:41:32.219858Z" modified="2025-05-18T17:41:32.219871Z" visited="2025-05-18T17:41:32.219860Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ms-dos-executable"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2025-05-18T17:41:32.219864Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/murphy/Downloads/Gittyup.flatpak" added="2025-05-18T17:41:38.728975Z" modified="2025-05-18T17:41:38.728989Z" visited="2025-05-18T17:41:38.728979Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.flatpak"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2025-05-18T17:41:38.728983Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/murphy/Downloads/Gittyup-1.4.0.dmg" added="2025-05-18T17:41:43.696639Z" modified="2025-05-18T17:41:43.696653Z" visited="2025-05-18T17:41:43.696641Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-apple-diskimage"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2025-05-18T17:41:43.696646Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/murphy/Downloads/Gittyup-win64-1.4.0(1).exe" added="2025-05-18T17:43:10.457982Z" modified="2025-05-18T17:43:10.457995Z" visited="2025-05-18T17:43:10.457984Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ms-dos-executable"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2025-05-18T17:43:10.457989Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

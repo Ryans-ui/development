@@ -1,0 +1,30 @@
+2025-05-18 15:34:14.882218 ERROR main: Error propagated to top-level
+	SnapdException: SnapdException(kind: snap-change-conflict, message: snap "qownnotes" has "install-snap" change in progress, status: Conflict, statusCode: 409)
+#0      _SnapdErrorResponse.result (package:snapd/src/snapd_client.dart:588)
+#1      SnapdClient._openAsync (package:snapd/src/snapd_client.dart:1146)
+<asynchronous suspension>
+#2      SnapdClient._postAsync (package:snapd/src/snapd_client.dart:1128)
+<asynchronous suspension>
+#3      SnapModel.install (package:app_center/snapd/snap_model.dart:86)
+<asynchronous suspension>
+
+2025-05-18 15:34:14.887215 ERROR main: Error propagated to top-level
+	SnapdException: SnapdException(kind: snap-change-conflict, message: snap "qownnotes" has "install-snap" change in progress, status: Conflict, statusCode: 409)
+#0      _SnapdErrorResponse.result (package:snapd/src/snapd_client.dart:588)
+#1      SnapdClient._openAsync (package:snapd/src/snapd_client.dart:1146)
+<asynchronous suspension>
+#2      SnapdClient._postAsync (package:snapd/src/snapd_client.dart:1128)
+<asynchronous suspension>
+#3      SnapModel.install (package:app_center/snapd/snap_model.dart:86)
+<asynchronous suspension>
+
+2025-05-18 15:34:14.936106 ERROR main: Error propagated to top-level
+	SnapdException: SnapdException(kind: snap-change-conflict, message: snap "qownnotes" has "install-snap" change in progress, status: Conflict, statusCode: 409)
+#0      _SnapdErrorResponse.result (package:snapd/src/snapd_client.dart:588)
+#1      SnapdClient._openAsync (package:snapd/src/snapd_client.dart:1146)
+<asynchronous suspension>
+#2      SnapdClient._postAsync (package:snapd/src/snapd_client.dart:1128)
+<asynchronous suspension>
+#3      SnapModel.install (package:app_center/snapd/snap_model.dart:86)
+<asynchronous suspension>
+

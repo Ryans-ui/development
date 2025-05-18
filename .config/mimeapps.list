@@ -1,0 +1,3 @@
+[Added Associations]
+application/vnd.flatpak=gnome-disk-image-mounter.desktop;
+application/x-msi=gnome-disk-image-mounter.desktop;

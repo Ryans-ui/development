@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="libreoffice-writer.desktop" score="0" last-seen="1747588786"/>
+    <application id="org.gnome.FileRoller.desktop" score="0" last-seen="1747590200"/>
+    <application id="gnome-session-properties.desktop" score="2" last-seen="1747596039"/>
+    <application id="qownnotes_qownnotes.desktop" score="53" last-seen="1747597547"/>
+    <application id="snap-store_snap-store.desktop" score="80" last-seen="1747597100"/>
+    <application id="software-properties-gtk.desktop" score="10" last-seen="1747596010"/>
+    <application id="org.gnome.Terminal.Preferences.desktop" score="3" last-seen="1747588855"/>
+    <application id="update-manager.desktop" score="53" last-seen="1747588726"/>
+    <application id="org.gnome.Nautilus.desktop" score="13" last-seen="1747597739"/>
+    <application id="thunderbird_thunderbird.desktop" score="63" last-seen="1747595861"/>
+    <application id="xdg-desktop-portal-gnome.desktop" score="1" last-seen="1747590147"/>
+    <application id="org.gnome.Shotwell.desktop" score="21" last-seen="1747597737"/>
+    <application id="gnome-initial-setup.desktop" score="11" last-seen="1747590247"/>
+    <application id="org.gnome.Terminal.desktop" score="282" last-seen="1747598020"/>
+    <application id="firefox_firefox.desktop" score="754" last-seen="1747598059"/>
+    <application id="org.gnome.DiskUtility.desktop" score="5" last-seen="1747590184"/>
+    <application id="org.gnome.Rhythmbox3.desktop" score="0" last-seen="1747590658"/>
+  </context>
+</application-state>

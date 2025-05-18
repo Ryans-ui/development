@@ -1,0 +1,14 @@
+L 24106 2025-05-18 15:46:25 [MSG] main.vala:561: Shotwell Photo Manager 0.32.10 (0.32.10)
+L 24106 2025-05-18 15:46:25 [MSG] main.vala:570: Shotwell is runing inside APP_DIRS_RUNTIME_NATIVE
+L 24106 2025-05-18 15:46:25 [MSG] main.vala:43: Verifying database…
+L 24106 2025-05-18 15:46:50 [MSG] main.vala:257: Supported codecs....
+L 24106 2025-05-18 15:46:50 [MSG] main.vala:258:   WEBP   : yes, builtin
+L 24106 2025-05-18 15:46:50 [MSG] main.vala:259:   RAW    : yes, builtin
+L 24106 2025-05-18 15:46:50 [MSG] main.vala:260:   CR3    : yes
+L 24106 2025-05-18 15:46:50 [MSG] main.vala:261:   JPEG   : yes, gdk-pixbuf
+L 24106 2025-05-18 15:46:50 [MSG] main.vala:262:   PNG    : yes, gdk-pixbuf
+L 24106 2025-05-18 15:46:50 [MSG] main.vala:263:   GIF    : yes, gdk-pixbuf
+L 24106 2025-05-18 15:46:50 [MSG] main.vala:264:   TIFF   : yes, gdk-pixbuf
+L 24106 2025-05-18 15:46:50 [MSG] main.vala:265:   JPEG XL: yes, gdk-pixbuf, yes meta-data
+L 24106 2025-05-18 15:46:50 [MSG] main.vala:266:   AVIF   : yes, gdk-pixbuf, yes meta-data
+L 24106 2025-05-18 15:46:50 [MSG] main.vala:267:   HEIF   : yes, gdk-pixbuf, yes meta-data

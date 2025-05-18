@@ -1,0 +1,3 @@
+[default-routes]
+alsa_card.platform-107c701400.hdmi:output:hdmi-output-0={"mute":false, "latencyOffsetNsec":0, "channelVolumes":[0.063997, 0.063997], "channelMap":["FL", "FR"], "iec958Codecs":[]}
+alsa_card.platform-107c701400.hdmi:profile:output:hdmi-stereo=["hdmi-output-0"]
